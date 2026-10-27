@@ -1,0 +1,213 @@
+areaName,Borough,NTA2020,NTAName,match,confidence,note,merge_group,shares_nta
+Baychester,Bronx,BX1202,Eastchester-Edenwald-Baychester,part of NTA name,high,,Baychester / Eastchester / Edenwald,1
+Bedford Park,Bronx,BX0702,Bedford Park,exact name,high,,Bedford Park,0
+Belmont,Bronx,BX0603,Belmont,exact name,high,,Belmont,0
+Bronxwood,Bronx,BX1201,Williamsbridge-Olinville,manual,low,between Williamsbridge and Allerton,Bronxwood / Williamsbridge,1
+Castle Hill,Bronx,BX0903,Castle Hill-Unionport,part of NTA name,high,,Castle Hill,0
+City Island,Bronx,BX1003,Pelham Bay-Country Club-City Island,part of NTA name,high,,City Island / Country Club / Pelham Bay,1
+Co-op City,Bronx,BX1004,Co-op City,exact name,high,,Co-op City,0
+Concourse,Bronx,BX0401,Concourse-Concourse Village,part of NTA name,high,,Concourse,0
+Country Club,Bronx,BX1003,Pelham Bay-Country Club-City Island,part of NTA name,high,,City Island / Country Club / Pelham Bay,1
+Crotona Park East,Bronx,BX0303,Crotona Park East,exact name,high,,Crotona Park East,0
+East Tremont,Bronx,BX0602,Tremont,manual,medium,2020 Tremont NTA covers East Tremont,East Tremont / Tremont,1
+Eastchester,Bronx,BX1202,Eastchester-Edenwald-Baychester,part of NTA name,high,,Baychester / Eastchester / Edenwald,1
+Edenwald,Bronx,BX1202,Eastchester-Edenwald-Baychester,part of NTA name,high,,Baychester / Eastchester / Edenwald,1
+Fordham,Bronx,BX0503,Fordham Heights,manual,medium,adds Fordham Heights,Fordham / Morris Heights / University Heights,1
+Fordham,Bronx,BX0701,University Heights (North)-Fordham,manual,medium,adds Fordham Heights,Fordham / Morris Heights / University Heights,1
+Highbridge,Bronx,BX0402,Highbridge,exact name,high,,Highbridge,0
+Hunts Point,Bronx,BX0201,Hunts Point,exact name,high,,Hunts Point,0
+Kingsbridge,Bronx,BX0801,Kingsbridge Heights-Van Cortlandt Village,manual,medium,adds Kingsbridge Heights,Kingsbridge / Marble Hill,1
+Kingsbridge,Bronx,BX0802,Kingsbridge-Marble Hill,manual,medium,adds Kingsbridge Heights,Kingsbridge / Marble Hill,1
+Laconia,Bronx,BX1104,Allerton,manual,medium,Allerton NTA,Laconia,0
+Longwood,Bronx,BX0202,Longwood,exact name,high,,Longwood,0
+Melrose,Bronx,BX0102,Melrose,exact name,high,,Melrose,0
+Morris Heights,Bronx,BX0501,University Heights (South)-Morris Heights,part of NTA name,high,,Fordham / Morris Heights / University Heights,1
+Morris Park,Bronx,BX1102,Morris Park,exact name,high,,Morris Park,0
+Morrisania,Bronx,BX0301,Morrisania,exact name,high,,Morrisania / Woodstock,1
+Mott Haven,Bronx,BX0101,Mott Haven-Port Morris,part of NTA name,high,,Mott Haven / Port Morris,1
+Norwood,Bronx,BX0703,Norwood,exact name,high,,Norwood,0
+Parkchester,Bronx,BX0904,Parkchester,exact name,high,,Parkchester,0
+Pelham Bay,Bronx,BX1003,Pelham Bay-Country Club-City Island,part of NTA name,high,,City Island / Country Club / Pelham Bay,1
+Pelham Gardens,Bronx,BX1103,Pelham Gardens,exact name,high,,Pelham Gardens,0
+Pelham Parkway,Bronx,BX1101,Pelham Parkway-Van Nest,part of NTA name,high,,Pelham Parkway / Van Nest,1
+Port Morris,Bronx,BX0101,Mott Haven-Port Morris,part of NTA name,high,,Mott Haven / Port Morris,1
+Riverdale,Bronx,BX0803,Riverdale-Spuyten Duyvil,part of NTA name,high,,Riverdale,0
+Schuylerville,Bronx,BX1002,Throgs Neck-Schuylerville,part of NTA name,high,,Schuylerville / Throgs Neck,1
+Soundview,Bronx,BX0901,Soundview-Bruckner-Bronx River,part of NTA name,high,,Soundview,0
+Soundview,Bronx,BX0902,Soundview-Clason Point,part of NTA name,high,,Soundview,0
+Throgs Neck,Bronx,BX1002,Throgs Neck-Schuylerville,part of NTA name,high,,Schuylerville / Throgs Neck,1
+Tremont,Bronx,BX0602,Tremont,exact name,high,,East Tremont / Tremont,1
+University Heights,Bronx,BX0501,University Heights (South)-Morris Heights,part of NTA name,high,,Fordham / Morris Heights / University Heights,1
+University Heights,Bronx,BX0701,University Heights (North)-Fordham,part of NTA name,high,,Fordham / Morris Heights / University Heights,1
+Van Nest,Bronx,BX1101,Pelham Parkway-Van Nest,part of NTA name,high,,Pelham Parkway / Van Nest,1
+Wakefield,Bronx,BX1203,Wakefield-Woodlawn,part of NTA name,high,,Wakefield / Woodlawn,1
+Westchester Village,Bronx,BX1001,Westchester Square,manual,medium,Westchester Square NTA,Westchester Village,0
+Williamsbridge,Bronx,BX1201,Williamsbridge-Olinville,part of NTA name,high,,Bronxwood / Williamsbridge,1
+Woodlawn,Bronx,BX1203,Wakefield-Woodlawn,part of NTA name,high,,Wakefield / Woodlawn,1
+Woodstock,Bronx,BX0301,Morrisania,manual,low,next to Morrisania/Longwood,Morrisania / Woodstock,1
+Bath Beach,Brooklyn,BK1102,Bath Beach,exact name,high,,Bath Beach,0
+Bay Ridge,Brooklyn,BK1001,Bay Ridge,exact name,high,,Bay Ridge,0
+Bedford-Stuyvesant,Brooklyn,BK0301,Bedford-Stuyvesant (West),manual,high,NTA splits Bed-Stuy into West/East,Bedford-Stuyvesant,0
+Bedford-Stuyvesant,Brooklyn,BK0302,Bedford-Stuyvesant (East),manual,high,NTA splits Bed-Stuy into West/East,Bedford-Stuyvesant,0
+Bensonhurst,Brooklyn,BK1101,Bensonhurst,exact name,high,,Bensonhurst,0
+Bergen Beach,Brooklyn,BK1802,Marine Park-Mill Basin-Bergen Beach,part of NTA name,high,,Bergen Beach / Marine Park / Mill Basin / Old Mill Basin,1
+Boerum Hill,Brooklyn,BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,part of NTA name,high,,Boerum Hill / DUMBO / Downtown Brooklyn,1
+Borough Park,Brooklyn,BK1202,Borough Park,exact name,high,,Borough Park,0
+Brighton Beach,Brooklyn,BK1303,Brighton Beach,exact name,high,,Brighton Beach,0
+Brooklyn Heights,Brooklyn,BK0201,Brooklyn Heights,exact name,high,,Brooklyn Heights,0
+Brownsville,Brooklyn,BK1602,Brownsville,exact name,high,,Brownsville,0
+Bushwick,Brooklyn,BK0401,Bushwick (West),part of NTA name,high,,Bushwick,0
+Bushwick,Brooklyn,BK0402,Bushwick (East),part of NTA name,high,,Bushwick,0
+Canarsie,Brooklyn,BK1803,Canarsie,exact name,high,,Canarsie,0
+Carroll Gardens,Brooklyn,BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,part of NTA name,high,,Carroll Gardens / Cobble Hill / Columbia St Waterfront District / Gowanus / Red Hook,1
+Clinton Hill,Brooklyn,BK0204,Clinton Hill,exact name,high,,Clinton Hill,0
+Cobble Hill,Brooklyn,BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,part of NTA name,high,,Carroll Gardens / Cobble Hill / Columbia St Waterfront District / Gowanus / Red Hook,1
+Columbia St Waterfront District,Brooklyn,BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,manual,medium,small area inside the Carroll Gardens/Red Hook NTA,Carroll Gardens / Cobble Hill / Columbia St Waterfront District / Gowanus / Red Hook,1
+Coney Island,Brooklyn,BK1302,Coney Island-Sea Gate,part of NTA name,high,,Coney Island / Seagate,1
+Crown Heights,Brooklyn,BK0802,Crown Heights (North),part of NTA name,high,,Crown Heights,0
+Crown Heights,Brooklyn,BK0901,Crown Heights (South),part of NTA name,high,,Crown Heights,0
+DUMBO,Brooklyn,BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,part of NTA name,high,,Boerum Hill / DUMBO / Downtown Brooklyn,1
+Ditmas Park,Brooklyn,BK1402,Flatbush (West)-Ditmas Park-Parkville,part of NTA name,high,,Ditmas Park / Prospect Park South,1
+Downtown Brooklyn,Brooklyn,BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,part of NTA name,high,,Boerum Hill / DUMBO / Downtown Brooklyn,1
+Dyker Heights,Brooklyn,BK1002,Dyker Heights,exact name,high,,Dyker Heights,0
+East Flatbush,Brooklyn,BK1701,East Flatbush-Erasmus,part of NTA name,high,,East Flatbush,0
+East Flatbush,Brooklyn,BK1702,East Flatbush-Farragut,part of NTA name,high,,East Flatbush,0
+East Flatbush,Brooklyn,BK1703,East Flatbush-Rugby,part of NTA name,high,,East Flatbush,0
+East Flatbush,Brooklyn,BK1704,East Flatbush-Remsen Village,part of NTA name,high,,East Flatbush,0
+East New York,Brooklyn,BK0501,Cypress Hills,manual,medium,adds Cypress Hills,East New York,0
+East New York,Brooklyn,BK0502,East New York (North),manual,medium,adds Cypress Hills,East New York,0
+East New York,Brooklyn,BK0503,East New York-New Lots,manual,medium,adds Cypress Hills,East New York,0
+East New York,Brooklyn,BK0505,East New York-City Line,manual,medium,adds Cypress Hills,East New York,0
+Flatbush,Brooklyn,BK1401,Flatbush,exact name,high,,Flatbush,0
+Flatlands,Brooklyn,BK1801,Flatlands,exact name,high,,Flatlands,0
+Fort Greene,Brooklyn,BK0203,Fort Greene,exact name,high,,Fort Greene,0
+Gerritsen Beach,Brooklyn,BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,part of NTA name,high,,Gerritsen Beach / Manhattan Beach / Sheepshead Bay,1
+Gowanus,Brooklyn,BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,part of NTA name,high,,Carroll Gardens / Cobble Hill / Columbia St Waterfront District / Gowanus / Red Hook,1
+Gravesend,Brooklyn,BK1103,Gravesend (West),part of NTA name,high,,Gravesend,0
+Gravesend,Brooklyn,BK1301,Gravesend (South),part of NTA name,high,,Gravesend,0
+Gravesend,Brooklyn,BK1501,Gravesend (East)-Homecrest,part of NTA name,high,,Gravesend,0
+Greenpoint,Brooklyn,BK0101,Greenpoint,exact name,high,,Greenpoint,0
+Greenwood,Brooklyn,BK0701,Windsor Terrace-South Slope,manual,medium,Greenwood Heights ~ South Slope NTA,Greenwood / Windsor Terrace,1
+Kensington,Brooklyn,BK1203,Kensington,exact name,high,,Kensington,0
+Manhattan Beach,Brooklyn,BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,part of NTA name,high,,Gerritsen Beach / Manhattan Beach / Sheepshead Bay,1
+Marine Park,Brooklyn,BK1802,Marine Park-Mill Basin-Bergen Beach,manual,high,drop park-only NTA BK1891,Bergen Beach / Marine Park / Mill Basin / Old Mill Basin,1
+Midwood,Brooklyn,BK1403,Midwood,exact name,high,,Midwood,0
+Mill Basin,Brooklyn,BK1802,Marine Park-Mill Basin-Bergen Beach,part of NTA name,high,,Bergen Beach / Marine Park / Mill Basin / Old Mill Basin,1
+Old Mill Basin,Brooklyn,BK1802,Marine Park-Mill Basin-Bergen Beach,manual,medium,inside Marine Park-Mill Basin NTA,Bergen Beach / Marine Park / Mill Basin / Old Mill Basin,1
+Park Slope,Brooklyn,BK0602,Park Slope,exact name,high,,Park Slope,0
+Prospect Heights,Brooklyn,BK0801,Prospect Heights,exact name,high,,Prospect Heights,0
+Prospect Lefferts Gardens,Brooklyn,BK0902,Prospect Lefferts Gardens-Wingate,part of NTA name,high,,Prospect Lefferts Gardens,0
+Prospect Park South,Brooklyn,BK1402,Flatbush (West)-Ditmas Park-Parkville,manual,medium,inside Flatbush (West)-Ditmas Park NTA,Ditmas Park / Prospect Park South,1
+Red Hook,Brooklyn,BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,part of NTA name,high,,Carroll Gardens / Cobble Hill / Columbia St Waterfront District / Gowanus / Red Hook,1
+Seagate,Brooklyn,BK1302,Coney Island-Sea Gate,manual,high,Coney Island-Sea Gate,Coney Island / Seagate,1
+Sheepshead Bay,Brooklyn,BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,part of NTA name,high,,Gerritsen Beach / Manhattan Beach / Sheepshead Bay,1
+Sunset Park,Brooklyn,BK0702,Sunset Park (West),part of NTA name,high,,Sunset Park,0
+Sunset Park,Brooklyn,BK0703,Sunset Park (Central),part of NTA name,high,,Sunset Park,0
+Sunset Park,Brooklyn,BK1201,Sunset Park (East)-Borough Park (West),part of NTA name,high,,Sunset Park,0
+Williamsburg,Brooklyn,BK0102,Williamsburg,manual,medium,StreetEasy has no separate South/East Williamsburg,Williamsburg,0
+Williamsburg,Brooklyn,BK0103,South Williamsburg,manual,medium,StreetEasy has no separate South/East Williamsburg,Williamsburg,0
+Williamsburg,Brooklyn,BK0104,East Williamsburg,manual,medium,StreetEasy has no separate South/East Williamsburg,Williamsburg,0
+Windsor Terrace,Brooklyn,BK0701,Windsor Terrace-South Slope,part of NTA name,high,,Greenwood / Windsor Terrace,1
+Battery Park City,Manhattan,MN0101,Financial District-Battery Park City,part of NTA name,high,,Battery Park City / Financial District,1
+Central Harlem,Manhattan,MN1001,Harlem (South),manual,high,NTA calls it Harlem (South)/(North),Central Harlem,0
+Central Harlem,Manhattan,MN1002,Harlem (North),manual,high,NTA calls it Harlem (South)/(North),Central Harlem,0
+Central Park South,Manhattan,MN0502,Midtown-Times Square,manual,low,no own NTA; sits in Midtown-Times Square,Central Park South / Midtown,1
+Chelsea,Manhattan,MN0401,Chelsea-Hudson Yards,part of NTA name,high,,Chelsea,0
+Chinatown,Manhattan,MN0301,Chinatown-Two Bridges,part of NTA name,high,,Chinatown,0
+Civic Center,Manhattan,MN0102,Tribeca-Civic Center,part of NTA name,high,,Civic Center / Tribeca,1
+East Harlem,Manhattan,MN1101,East Harlem (South),part of NTA name,high,,East Harlem,0
+East Harlem,Manhattan,MN1102,East Harlem (North),part of NTA name,high,,East Harlem,0
+East Village,Manhattan,MN0303,East Village,exact name,high,,East Village,0
+Financial District,Manhattan,MN0101,Financial District-Battery Park City,part of NTA name,high,,Battery Park City / Financial District,1
+Flatiron,Manhattan,MN0501,Midtown South-Flatiron-Union Square,part of NTA name,high,,Flatiron / Midtown South,1
+Gramercy Park,Manhattan,MN0602,Gramercy,manual,high,NTA name is Gramercy,Gramercy Park,0
+Greenwich Village,Manhattan,MN0202,Greenwich Village,exact name,high,,Greenwich Village,0
+Hamilton Heights,Manhattan,MN0903,Hamilton Heights-Sugar Hill,part of NTA name,high,,Hamilton Heights,0
+Inwood,Manhattan,MN1203,Inwood,exact name,high,,Inwood,0
+Little Italy,Manhattan,MN0201,SoHo-Little Italy-Hudson Square,part of NTA name,high,,Little Italy / Nolita / Soho,1
+Lower East Side,Manhattan,MN0302,Lower East Side,exact name,high,,Lower East Side,0
+Marble Hill,Manhattan,BX0802,Kingsbridge-Marble Hill,manual,high,NTA is in the Bronx borough code,Kingsbridge / Marble Hill,1
+Midtown,Manhattan,MN0502,Midtown-Times Square,part of NTA name,high,,Central Park South / Midtown,1
+Midtown East,Manhattan,MN0603,Murray Hill-Kips Bay,manual,medium,StreetEasy Midtown East spans Turtle Bay + Murray Hill/Kips Bay,Midtown East,0
+Midtown East,Manhattan,MN0604,East Midtown-Turtle Bay,manual,medium,StreetEasy Midtown East spans Turtle Bay + Murray Hill/Kips Bay,Midtown East,0
+Midtown South,Manhattan,MN0501,Midtown South-Flatiron-Union Square,part of NTA name,high,,Flatiron / Midtown South,1
+Midtown West,Manhattan,MN0402,Hell's Kitchen,manual,medium,StreetEasy Midtown West ~ Hell's Kitchen NTA,Midtown West,0
+Morningside Heights,Manhattan,MN0901,Morningside Heights,exact name,high,,Morningside Heights,0
+Nolita,Manhattan,MN0201,SoHo-Little Italy-Hudson Square,manual,medium,inside SoHo-Little Italy NTA,Little Italy / Nolita / Soho,1
+Roosevelt Island,Manhattan,MN0801,Upper East Side-Lenox Hill-Roosevelt Island,part of NTA name,high,,Roosevelt Island / Upper East Side,1
+Soho,Manhattan,MN0201,SoHo-Little Italy-Hudson Square,part of NTA name,high,,Little Italy / Nolita / Soho,1
+Stuyvesant Town/PCV,Manhattan,MN0601,Stuyvesant Town-Peter Cooper Village,manual,high,own NTA,Stuyvesant Town/PCV,0
+Tribeca,Manhattan,MN0102,Tribeca-Civic Center,part of NTA name,high,,Civic Center / Tribeca,1
+Upper East Side,Manhattan,MN0801,Upper East Side-Lenox Hill-Roosevelt Island,part of NTA name,high,,Roosevelt Island / Upper East Side,1
+Upper East Side,Manhattan,MN0802,Upper East Side-Carnegie Hill,part of NTA name,high,,Roosevelt Island / Upper East Side,1
+Upper East Side,Manhattan,MN0803,Upper East Side-Yorkville,part of NTA name,high,,Roosevelt Island / Upper East Side,1
+Upper West Side,Manhattan,MN0701,Upper West Side-Lincoln Square,part of NTA name,high,,Upper West Side,0
+Upper West Side,Manhattan,MN0702,Upper West Side (Central),part of NTA name,high,,Upper West Side,0
+Upper West Side,Manhattan,MN0703,Upper West Side-Manhattan Valley,part of NTA name,high,,Upper West Side,0
+Washington Heights,Manhattan,MN1201,Washington Heights (South),part of NTA name,high,,Washington Heights,0
+Washington Heights,Manhattan,MN1202,Washington Heights (North),part of NTA name,high,,Washington Heights,0
+West Harlem,Manhattan,MN0902,Manhattanville-West Harlem,part of NTA name,high,,West Harlem,0
+West Village,Manhattan,MN0203,West Village,exact name,high,,West Village,0
+Astoria,Queens,QN0101,Astoria (North)-Ditmars-Steinway,manual,high,adds Old Astoria-Hallets Point,Astoria,0
+Astoria,Queens,QN0102,Old Astoria-Hallets Point,manual,high,adds Old Astoria-Hallets Point,Astoria,0
+Astoria,Queens,QN0103,Astoria (Central),manual,high,adds Old Astoria-Hallets Point,Astoria,0
+Astoria,Queens,QN0104,Astoria (East)-Woodside (North),manual,high,adds Old Astoria-Hallets Point,Astoria,0
+Auburndale,Queens,QN1101,Auburndale,exact name,high,,Auburndale,0
+Bayside,Queens,QN1102,Bayside,exact name,high,,Bayside,0
+Bellerose,Queens,QN1302,Bellerose,exact name,high,,Bellerose,0
+Briarwood,Queens,QN0805,Jamaica Hills-Briarwood,part of NTA name,high,,Briarwood / Jamaica Hills,1
+Brookville,Queens,QN1306,Springfield Gardens (South)-Brookville,part of NTA name,high,,Brookville / Springfield Gardens,1
+Cambria Heights,Queens,QN1304,Cambria Heights,exact name,high,,Cambria Heights,0
+Clearview,Queens,QN0703,Bay Terrace-Clearview,part of NTA name,high,,Clearview,0
+College Point,Queens,QN0701,College Point,exact name,high,,College Point,0
+Corona,Queens,QN0402,Corona,exact name,high,,Corona,0
+Douglaston,Queens,QN1103,Douglaston-Little Neck,part of NTA name,high,,Douglaston / Little Neck,1
+East Elmhurst,Queens,QN0302,East Elmhurst,exact name,high,,East Elmhurst,0
+Elmhurst,Queens,QN0401,Elmhurst,exact name,high,,Elmhurst,0
+Floral Park,Queens,QN1301,Glen Oaks-Floral Park-New Hyde Park,part of NTA name,high,,Floral Park / Glen Oaks / New Hyde Park,1
+Flushing,Queens,QN0704,Murray Hill-Broadway Flushing,manual,medium,adds Murray Hill-Broadway Flushing and East Flushing,Flushing,0
+Flushing,Queens,QN0705,East Flushing,manual,medium,adds Murray Hill-Broadway Flushing and East Flushing,Flushing,0
+Flushing,Queens,QN0707,Flushing-Willets Point,manual,medium,adds Murray Hill-Broadway Flushing and East Flushing,Flushing,0
+Forest Hills,Queens,QN0602,Forest Hills,exact name,high,,Forest Hills,0
+Fresh Meadows,Queens,QN0803,Fresh Meadows-Utopia,part of NTA name,high,,Fresh Meadows / Utopia,1
+Glen Oaks,Queens,QN1301,Glen Oaks-Floral Park-New Hyde Park,part of NTA name,high,,Floral Park / Glen Oaks / New Hyde Park,1
+Glendale,Queens,QN0503,Glendale,exact name,high,,Glendale,0
+Hillcrest,Queens,QN0802,Pomonok-Electchester-Hillcrest,part of NTA name,high,,Hillcrest / Pomonok,1
+Hollis,Queens,QN1206,Hollis,exact name,high,,Hollis,0
+Howard Beach,Queens,QN1003,Howard Beach-Lindenwood,part of NTA name,high,,Howard Beach,0
+Jackson Heights,Queens,QN0301,Jackson Heights,exact name,high,,Jackson Heights,0
+Jamaica,Queens,QN1201,Jamaica,exact name,high,,Jamaica,0
+Jamaica Estates,Queens,QN0804,Jamaica Estates-Holliswood,part of NTA name,high,,Jamaica Estates,0
+Jamaica Hills,Queens,QN0805,Jamaica Hills-Briarwood,part of NTA name,high,,Briarwood / Jamaica Hills,1
+Kew Gardens,Queens,QN0901,Kew Gardens,exact name,high,,Kew Gardens,0
+Kew Gardens Hills,Queens,QN0801,Kew Gardens Hills,exact name,high,,Kew Gardens Hills,0
+Laurelton,Queens,QN1305,Laurelton,exact name,high,,Laurelton,0
+Little Neck,Queens,QN1103,Douglaston-Little Neck,part of NTA name,high,,Douglaston / Little Neck,1
+Long Island City,Queens,QN0105,Queensbridge-Ravenswood-Dutch Kills,manual,medium,adds Queensbridge-Ravenswood-Dutch Kills,Long Island City,0
+Long Island City,Queens,QN0201,Long Island City-Hunters Point,manual,medium,adds Queensbridge-Ravenswood-Dutch Kills,Long Island City,0
+Maspeth,Queens,QN0501,Maspeth,exact name,high,,Maspeth,0
+Middle Village,Queens,QN0504,Middle Village,exact name,high,,Middle Village,0
+New Hyde Park,Queens,QN1301,Glen Oaks-Floral Park-New Hyde Park,part of NTA name,high,,Floral Park / Glen Oaks / New Hyde Park,1
+North Corona,Queens,QN0303,North Corona,exact name,high,,North Corona,0
+Oakland Gardens,Queens,QN1104,Oakland Gardens-Hollis Hills,part of NTA name,high,,Oakland Gardens,0
+Ozone Park,Queens,QN1002,Ozone Park,exact name,high,,Ozone Park,0
+Pomonok,Queens,QN0802,Pomonok-Electchester-Hillcrest,part of NTA name,high,,Hillcrest / Pomonok,1
+Queens Village,Queens,QN1303,Queens Village,exact name,high,,Queens Village,0
+Rego Park,Queens,QN0601,Rego Park,exact name,high,,Rego Park,0
+Richmond Hill,Queens,QN0902,Richmond Hill,exact name,high,,Richmond Hill,0
+Ridgewood,Queens,QN0502,Ridgewood,exact name,high,,Ridgewood,0
+Rockaway All,Queens,QN1401,Far Rockaway-Bayswater,manual,high,all Rockaway NTAs,Rockaway All,0
+Rockaway All,Queens,QN1402,Rockaway Beach-Arverne-Edgemere,manual,high,all Rockaway NTAs,Rockaway All,0
+Rockaway All,Queens,QN1403,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,manual,high,all Rockaway NTAs,Rockaway All,0
+Rosedale,Queens,QN1307,Rosedale,exact name,high,,Rosedale,0
+South Jamaica,Queens,QN1202,South Jamaica,exact name,high,,South Jamaica,0
+South Ozone Park,Queens,QN1001,South Ozone Park,exact name,high,,South Ozone Park,0
+South Richmond Hill,Queens,QN0903,South Richmond Hill,exact name,high,,South Richmond Hill,0
+Springfield Gardens,Queens,QN1204,Springfield Gardens (North)-Rochdale Village,part of NTA name,high,,Brookville / Springfield Gardens,1
+Springfield Gardens,Queens,QN1306,Springfield Gardens (South)-Brookville,part of NTA name,high,,Brookville / Springfield Gardens,1
+St. Albans,Queens,QN1205,St. Albans,exact name,high,,St. Albans,0
+Sunnyside,Queens,QN0202,Sunnyside,exact name,high,,Sunnyside,0
+Utopia,Queens,QN0803,Fresh Meadows-Utopia,part of NTA name,high,,Fresh Meadows / Utopia,1
+Whitestone,Queens,QN0702,Whitestone-Beechhurst,part of NTA name,high,,Whitestone,0
+Woodhaven,Queens,QN0905,Woodhaven,exact name,high,,Woodhaven,0
+Woodside,Queens,QN0203,Woodside,exact name,high,,Woodside,0
